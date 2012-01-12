@@ -2,6 +2,6 @@
 
 echo "kum,ar"; 
 
-$sample = "helloworld";
+$sample = "helloworld 1234";
 
 ?>
