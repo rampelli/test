@@ -1,5 +1,7 @@
 <?php 
 
-echo "kum,ar";
+echo "kum,ar"; 
+
+$sample = "helloworld";
 
 ?>
